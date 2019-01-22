@@ -11,22 +11,43 @@ layout: subpage
 
 ## Week 2: Navigating a Unix System
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+#### Basic filesystem commands/tools
+
+* **ls** for displaying the contents of a directory
+* **cd** to change directory
+* **pwd** to display path of current directory
+
+* **mkdir** for creating directories
+* **rmdir** for deleting empty directories
+* **cp** for copying files or directories
+	* usage: cp *[options]* [source] [destination]
+	* option *-r* (for *recursion*) required for succesfully copying directories
+* **rm** for removing files or directories
+	* again *-r* for directories
+* **du** for checking the size (**d**isk **u**sage) of a file or directory
+* **chmod** to modify...
+
+#### Permissions
+
+**chmod** usage:
+
+`chmod [options] [mode] [target]`
+
+Wherein mode can be expressed either through [octal](https://en.wikipedia.org/wiki/File_system_permissions#Numeric_notation) or [symbolic](https://en.wikipedia.org/wiki/File_system_permissions#Symbolic_notation) notation.
 
 ## Week 3: Corpus Processing
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+| command | functionality 
+| ---     | ---           
+| grep    | searching for patterns in a file
+| sed     | transforming text in a file based on matched patterns
+| tr	  | changing or deleting characters in a file
+| uniq    | identifying, removing, and counting duplicate lines
 
 ## Week 4: Scripting and Unix Configuration Files
-
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
-
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
 
 ## Week 5: Installing and Running Programs
 
 ## Week 6: Version Control
-
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
 
 ## Final Assignment
