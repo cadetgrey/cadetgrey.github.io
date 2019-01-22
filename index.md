@@ -18,7 +18,3 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 Preferred IM: [cadetgrey@Telegram](https://t.me/cadetgrey)
 
-## Some mandatory election propaganda
-
-[Vote Pirate](https://piraattipuolue.fi/yhdistykset/helsingin-piraatit/eduskuntavaaliehdokkaat-2019/) #eduskuntavaalit2019
-
