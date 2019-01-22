@@ -4,7 +4,9 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A Finnish general linguistics and computer science undergraduate, aspiring language technology wizard of some sort. Currently on a mildly inadvised activism and politicking spell due to holding a modest wish of the planet staying liveable, and of not wanting to end up developing and implementing censorship machines for a living.
+
+## [Curriculum Vitae](https://www.overleaf.com/read/kdkgfzttqxzqhttps://www.overleaf.com/read/kdkgfzttqxzq)
 
 ## Find me on
 
@@ -12,9 +14,11 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form first_name.last_name@helsinki.fi.
 
-## Mandatory election propaganda
+Preferred IM: [cadetgrey@Telegram](https://t.me/cadetgrey)
+
+## Some mandatory election propaganda
 
 [Vote Pirate](https://piraattipuolue.fi/yhdistykset/helsingin-piraatit/eduskuntavaaliehdokkaat-2019/) #eduskuntavaalit2019
 
