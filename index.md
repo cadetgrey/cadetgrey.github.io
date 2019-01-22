@@ -8,20 +8,13 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[Twitter](https://twitter.com/MLRaudaskoski), [GitHub](https://github.com/cadetgrey)
 
 ## Contact
 
 My email address is of the form first_name.last_name@helsinki.fi. 
 
-## Courses I've Taken
+## Mandatory election propaganda
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Vote Pirate](https://piraattipuolue.fi/yhdistykset/helsingin-piraatit/eduskuntavaaliehdokkaat-2019/) #eduskuntavaalit2019
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
-
-## Projects
-
-## Misc. 
-
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
