@@ -4,14 +4,17 @@ layout: subpage
 
 ## Introduction to the Command-line Course
 
-
+A course to help demystify the intimidating black box with the running text, and to clarify a range of basic but not immediately obvious technicalities.
 
 ## Week 1: Introduction to Command-Line Environments
 
+Binary/text distinction
+
+MAN is worth considering as an alternative to alt+tabbing over to google documentation every three minutes
 
 ## Week 2: Navigating a Unix System
 
-#### Basic filesystem commands/tools
+#### Basic filesystem commands
 
 * **ls** for displaying the contents of a directory
 * **cd** to change directory
@@ -49,5 +52,3 @@ Wherein mode can be expressed either through [octal](https://en.wikipedia.org/wi
 ## Week 5: Installing and Running Programs
 
 ## Week 6: Version Control
-
-## Final Assignment
